@@ -1,0 +1,13 @@
+header, footer {
+  position: fixed;
+  display: block;
+  width: 100%;
+  line-height: 30px;
+  text-align: center;
+  background-color: bisque;
+  margin-top: -8px;
+}
+
+footer {
+  bottom: 0px;
+}
